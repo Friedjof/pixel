@@ -1,8 +1,8 @@
 # Pixel
 
 ## Einleitung
-Dieses Projekt ist ein Discord Bot mit dem Namen Pixel.
-Er wird entwickelt für die Discord Server [Florian Dalwigk](https://discord.gg/Be7ND2Zm).
+Dieses ist der Discord Bot Pixel.
+Er wird entwickelt für den Discord Server [Florian Dalwigk](https://discord.gg/Be7ND2Zm).
 
 Wünsche und Anliegen kannst du gerne dort im Discord Support Channel posten oder hier auf GitHub unter [Issues](https://github.com/Friedjof/pixel/issues) anmerken.
 Wir bemühen uns jedes Anliegen frühzeitig zu beantworten.
