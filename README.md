@@ -1,4 +1,4 @@
-# Pixel
+# Pixel - Discord Bot 
 
 ## Einleitung
 Dieses ist der Discord Bot Pixel.
